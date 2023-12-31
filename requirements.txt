@@ -1,0 +1,8 @@
+PyQt5==5.15.4
+pywin32==305
+google-api-python-client==2.17.0
+<<<<<<< HEAD
+twilio==6.72.0
+=======
+twilio==6.72.0
+>>>>>>> 73124a8f5ad86bc8b77d423e1922b7c5d09801f2
